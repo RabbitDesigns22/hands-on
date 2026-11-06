@@ -29,6 +29,12 @@ For each step of the plan, ask: **can I do this myself with the tools I have rig
 
 If the session is closed (logged out, other device), the ask is one line: "Please sign in to X in my browser; I'll do the rest."
 
+## 1b. Don't ask permission for work that is obviously wanted
+
+If the task is clearly part of what the user wants, reversible, free and doable now, **do it now**. Do not ask "should I do it now or tomorrow?" or "do you want me to...?". That question costs the user a message and the answer is almost always yes. Use what you know about the user (memory, project notes, past orders) to decide.
+
+Ask only when it is irreversible or public (delete, publish, send to their clients), costs money, or is a real choice between two good options. Then ask once, with your recommendation first.
+
 ## 2. Do the work, then ask for the blocked pieces together
 
 1. Do every step you can, in order, until you hit a step only the user can do.
