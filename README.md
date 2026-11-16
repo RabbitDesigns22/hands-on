@@ -34,7 +34,7 @@
 With the [skills CLI](https://skills.sh):
 
 ```bash
-npx skills add RabbitDesigns22/hands-on
+npx skills@1.8.1 add https://github.com/RabbitDesigns22/hands-on/tree/b7286f074fe8c159392ac918a25de6b29af1d678
 ```
 
 Or manually: copy `skills/hands-on/` into `~/.claude/skills/` for all your projects, or into `.claude/skills/` for one project.
@@ -54,7 +54,7 @@ Before telling the user to click, open, copy or configure something, load the ha
 
 **Que el agente no te mande a hacer lo que él puede hacer.** Cuando le pides configurar algo, muchos agentes te contestan con un tutorial: "entra aquí, toca esto, copia aquel número". `hands-on` lo obliga a hacer él cada paso que puede (navegador, comandos, API, archivos), comprobarlo, y pedirte solo lo que de verdad no puede o no debe hacer: el código que llega a tu celular, contraseñas y claves, confirmar tu identidad, pagos y aceptar términos. Todo en un solo mensaje corto: qué, dónde y por qué.
 
-Instalar: `npx skills add RabbitDesigns22/hands-on`
+Instalar: `npx skills@1.8.1 add https://github.com/RabbitDesigns22/hands-on/tree/b7286f074fe8c159392ac918a25de6b29af1d678`
 
 ## More skills from the same setup
 
